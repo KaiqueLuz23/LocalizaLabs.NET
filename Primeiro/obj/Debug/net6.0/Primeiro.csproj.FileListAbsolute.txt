@@ -1,0 +1,15 @@
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\bin\Debug\net6.0\ref\Primeiro.dll
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Users\Kaique Luz\Source\Repos\LocalizaLabs.NET\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
