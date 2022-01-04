@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System; 
-namespace Primeiro
+using Primeiro;
+
+namespace CSharp
 {
     class Program
     {
@@ -9,6 +11,7 @@ namespace Primeiro
         {
             var a = "Hello";
             var b = "World!";
+            var classe = new Classe();
             Console.WriteLine(a + b);
         }
     }
